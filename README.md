@@ -55,7 +55,8 @@ This project analyzes how market sentiment (Fear/Greed) influences trader behavi
 ## How to Run
 
 # 1. Clone the repository
-git clone <[your-repo-link](https://github.com/Lakshya312/trader-sentiment-analysis)>
+git clone <[Lakshya312](https://github.com/Lakshya312/trader-sentiment-analysis)>
+cd <trader_sentiment_analysis>
 
 # 2. Install dependencies
 pip install pandas numpy matplotlib seaborn jupyter
