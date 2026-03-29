@@ -56,6 +56,7 @@ This project analyzes how market sentiment (Fear/Greed) influences trader behavi
 
 # 1. Clone the repository
 git clone <[Lakshya312](https://github.com/Lakshya312/trader-sentiment-analysis)>
+
 cd <trader_sentiment_analysis>
 
 # 2. Install dependencies
